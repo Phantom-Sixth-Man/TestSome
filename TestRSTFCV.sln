@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "TestRSTFCV", "TestRSTFCV\TestRSTFCV.rptproj", "{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}.Debug|Default.ActiveCfg = Debug
+		{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}.Debug|Default.Build.0 = Debug
+		{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}.Debug|Default.Deploy.0 = Debug
+		{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}.DebugLocal|Default.Build.0 = DebugLocal
+		{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}.Release|Default.ActiveCfg = Release
+		{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}.Release|Default.Build.0 = Release
+		{5EA322F6-A9A2-4744-896F-DF18DD9B3A8D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F3ECCAE-E543-4C3B-9B40-A876CF4A94A2}
+	EndGlobalSection
+EndGlobal
